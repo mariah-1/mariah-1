@@ -1,4 +1,3 @@
-# Meu nome é maria
 ## Hello, Devs!!👋
 
 <!--
